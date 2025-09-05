@@ -1,12 +1,25 @@
-# React + Vite
+# 🛒 MySandhai
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An e-commerce style web application where users can **browse products**, **filter by category**, and view items dynamically.  
+The project is built with **React** and styled using **TailwindCSS**, ensuring a clean and responsive UI.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Features
 
-## Expanding the ESLint configuration
+- 📂 **Category Selection** – Users can choose categories to filter products.  
+- 🔍 **Search & Filter** – Quickly find products by applying filters.  
+- 🖥️ **Responsive Design** – Fully optimized for desktop, tablet, and mobile.  
+- ⚡ **TailwindCSS UI** – Modern, fast, and responsive styling.  
+- 🛍️ **Product Grid** – Displays items in a structured grid layout with smooth user experience.  
+- 🚧 **Work in Progress** – Additional features like cart, checkout, and authentication are under development.  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧑‍💻 Tech Stack
+
+- ⚛️ React (Frontend framework)  
+- 🎨 TailwindCSS (Styling)  
+- 💻 JavaScript (Logic & Components)  
+
+---
